@@ -1,9 +1,9 @@
 # webdesign-katomanzu0923
 
-# interview-practice
+
 
 ## URL
-https://interview-practice.netlify.app/
+https://unruffled-khorana-75aad5.netlify.app/
 
 ## 概要
 未経験からwebデザイナーへの就職を目指すためのポートフォリオサイト
